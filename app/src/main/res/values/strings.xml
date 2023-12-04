@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">Shopping List</string>
+        <string name="add_product_to_list">Add a product to your list!</string>
+        <string name="add_product">Add product</string>
+        <string name="amount">Amount</string>
+        <string name="press_long_to_delete">Press long to delete</string>
+        <string name="okay">OK</string>
+        <string name="empty_fields_err">Fields can\'t be empty!</string>
+</resources>
